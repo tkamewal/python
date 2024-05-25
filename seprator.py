@@ -1,0 +1,1 @@
+print("tanmay",101,sep="-")

@@ -1,0 +1,5 @@
+print("hello,world")
+print(5)
+print("tanmay",101)
+print(14*2 )
+print(2)
